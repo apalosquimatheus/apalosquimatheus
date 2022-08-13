@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Matheus Apalosqui da Fé</h1>
+<h1 align="center">Oi 👋, eu sou Matheus Apalosqui da Fé</h1>
 <h3 align="center">Um aprendiz de ciência de dados</h3>
 
 - 🌱 Eu estou atualmente estudando **automação de processos, análise de dados**
