@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Matheus Apalosqui da Fé</h1>
 <h3 align="center">Um aprendiz de ciência de dados</h3>
 
-- 🌱 Eu estou atualmente estudando **automação de processos, análise de dados**
+- 🌱 Eu estou atualmente estudando **automação de processos e análise de dados**
 
 - 💬 Me pergunte sobre **SQL, Excel, Python**
 
